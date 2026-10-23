@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+package-lock.json
+.env
+.env.*
+.mafl-key
+.mafl-key.*
+.mafl-state/
