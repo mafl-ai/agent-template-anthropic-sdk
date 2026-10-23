@@ -147,3 +147,15 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Anthropic
+.claude
+
+# MAFL credentials and private run state
+.mafl-key
+.mafl-key.*
+.mafl-registration.json
+.mafl-state/
+
+# Local paid eval reports
+evals/results/
